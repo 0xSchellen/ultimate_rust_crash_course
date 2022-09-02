@@ -1,4 +1,4 @@
-# Ultimate Rust Crash Course
+# Ultimate Rust Crash Course (Forked from CleanCut/ultimate_rust_crash_course)
 
 This is the companion repository for the [Ultimate Rust Crash Course] published online, presented
 live at O'Reilly virtual events, or in person.  You will get the most out of this training 
